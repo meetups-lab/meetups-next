@@ -54,7 +54,7 @@ export default function DadosCadastrais() {
 
             <div className="col-span-full">
               <label htmlFor="about" className="block text-sm/6 font-medium text-gray-900">
-                About
+                Abouts
               </label>
               <div className="mt-2">
                 <textarea
